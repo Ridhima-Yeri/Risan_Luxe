@@ -13,7 +13,7 @@ A modern, responsive landing page built with **React.js** and **Vite**, designed
 - Booking CTA with validated sign-up/login form (opens in new tab)
 - Clean and professional footer with contact info
 
-  ---
+---
 
 ## 🛠️ Technologies Used
 
