@@ -23,7 +23,7 @@ const scrollToSections = () => {
 const Hero = () => (
   <section className="hero">
     <div className="hero-content">
-      <h1>Explore The World</h1>
+      <h1>Explore The World With Risan Luxe</h1>
       <p>Your adventure starts here</p>
       <button onClick={scrollToSections}>Book Now</button>
     </div>
