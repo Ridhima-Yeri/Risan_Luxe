@@ -28,27 +28,27 @@ A modern, responsive landing page built with **React.js** and **Vite**, designed
 
 ### 📥 Installation
 
-Clone the repository:
+1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/tourist-landing-page.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 cd tourist-landing-page
 
-Install the dependencies (including node_modules):
+3. Install the dependencies (including node_modules):
 npm install
 
-Start the development server:
+4. Start the development server:
 npm run dev
 
-Open your browser or Visit your system's local host:
+5. Open your browser or Visit your system's local host:
 http://localhost:5173/
 
 ⚠️ If you are running this project on a different system or after cloning, make sure to run npm install to generate the node_modules directory
 
 ---
 
-This project is open-source and available under the MIT License.
+`This project is open-source and available under the MIT License.
 
 
 
