@@ -1,5 +1,5 @@
 # Risan_Luxe
-A modern, responsive landing page built with **React.js** and **Vite**, designed for travel and tourism agencies to showcase curated travel packages and destinations.
+A modern, responsive landing page built with **React.js** (**Vite**), designed for travel and tourism agencies to showcase curated travel packages and destinations.
 
 ---
 
